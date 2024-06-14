@@ -85,7 +85,7 @@ cd to python_training directory
 """
 
 """
-How to Pull?
+How to Pull
 1. create directory say 'temp'
 2. git init
 3. Link Local-repository to github
@@ -95,3 +95,9 @@ How to Pull?
             OR
     git pull origin day_2_branch
 """
+
+
+
+
+
+

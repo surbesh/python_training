@@ -59,3 +59,5 @@ print("count_of_python:", count_of_python)
 print("index_of_python:", index_of_python)
 
 print("############################")
+
+my_string = “WEL COME”

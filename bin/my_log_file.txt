@@ -1,0 +1,12 @@
+INFO : 37_logging.py : This is test Info Message
+DEBUG : 37_logging.py : This is test debug Message
+WARNING : 37_logging.py : This is test Warning Message
+CRITICAL : 37_logging.py : This is test Critical Message
+ERROR : 37_logging.py : This is test Error Message
+INFO : 37_logging.py : Testing try/except/finally block
+INFO : 37_logging.py : Executing code in try block
+INFO : 37_logging.py : try block completed
+INFO : 37_logging.py : Reached else block
+INFO : 37_logging.py : else block completed
+INFO : 37_logging.py : Reached finally block
+INFO : 37_logging.py : File Connection Closed
